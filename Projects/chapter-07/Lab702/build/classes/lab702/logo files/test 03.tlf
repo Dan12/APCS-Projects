@@ -1,0 +1,23 @@
+pu
+bk 75
+lt 90
+fd 150
+rt 90
+pd
+
+//draw a semicircle
+de @a
+re 90
+fd 4
+rt 2
+er
+ed @a
+///////////////////
+
+re 8
+rt 45
+re 6
+do @a
+rt 90
+er
+er

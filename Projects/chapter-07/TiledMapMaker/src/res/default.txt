@@ -1,0 +1,1 @@
+<file-name=tmw_desert_spacing.png,tile-width=32,tile-height=32,tile-padding=1,tile-scale=1,rows=6,cols=8,map-tile-width=10,map-tile-height=10>

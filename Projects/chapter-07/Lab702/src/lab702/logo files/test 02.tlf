@@ -1,0 +1,21 @@
+//try changing this variable
+_a := 70
+
+
+re 8
+
+//draw a rhombus
+re 4
+rt 90
+re 2
+fd 40
+rt 45
+er
+er
+
+
+rt 45
+fd _a
+
+
+er

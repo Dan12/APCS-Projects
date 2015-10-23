@@ -1,0 +1,28 @@
+// draw 1 equilateral triangle
+de @a
+re 3
+fd 40
+rt 120
+er
+ed
+
+_b := 200
+
+re 3
+_a := 250
+re 6
+hm
+pu
+fd _b
+lt 90
+fd _a
+pd
+_a -= 100
+do @a
+er
+_b -= 100
+er
+
+hm
+pu
+bk 100

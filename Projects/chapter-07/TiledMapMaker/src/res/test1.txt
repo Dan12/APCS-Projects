@@ -1,0 +1,1 @@
+<file-name=worldmap inquisitor.gif,tile-width=8,tile-height=8,tile-padding=0,tile-scale=1,rows=32,cols=60,map-tile-width=40,map-tile-height=40>

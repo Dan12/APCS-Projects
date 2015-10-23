@@ -1,0 +1,18 @@
+_a := 0
+_d := 20
+re 22
+_a += 10
+re 6
+hm
+rt _a
+pu
+fd _d
+pd
+re 3
+fd 50
+rt 120
+er
+_a += 60
+er
+_d *= 1.15
+er

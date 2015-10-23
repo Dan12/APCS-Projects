@@ -1,0 +1,18 @@
+re 8
+hm
+rt _a
+fd 240
+
+re 40
+
+re 4
+fd 60
+rt 90
+er
+
+rt 9
+
+er
+rt _a
+_a += 45
+er

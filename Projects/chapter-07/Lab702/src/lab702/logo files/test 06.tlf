@@ -1,0 +1,12 @@
+//draw a circle
+de @c
+re 180
+fd 5
+rt 2
+er
+ed
+
+re 40
+do @c
+lt 9
+er
